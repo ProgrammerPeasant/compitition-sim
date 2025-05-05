@@ -61,12 +61,12 @@
 1. Склонируйте репозиторий:
    
    ```bash
-   git clone 
+   git clone https://github.com/ProgrammerPeasant/compitition-sim.git
    ```
 2. Перейдите в директорию проекта:
 
    ```bash
-   cd solid-system
+   cd compitition-sim
    ```
 
 3. Используйте конфигурационные файлы из примера или создайте свои `config.json` и `event`.
